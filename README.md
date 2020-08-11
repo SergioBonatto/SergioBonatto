@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There 👋
+
+![capa](site imagem.png)
+
 
 <!--
 **SergioBonatto/SergioBonatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
