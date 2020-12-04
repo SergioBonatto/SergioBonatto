@@ -1,4 +1,5 @@
 
+<h2> Olá! Me chamo, Sergio Bonatto! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2>
 
 ![capa](https://github.com/SergioBonatto/SergioBonatto/blob/master/site%20imagem.png)
 
