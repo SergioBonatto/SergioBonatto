@@ -37,11 +37,11 @@
 
 <img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 24px; height: 24px"/>
 
-<img src='https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png' style="padding-top:2rem; margin-right: 1rem; width: 24px; max-height: 24px ">
+<img src='https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png' style="padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px ">
 
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" style="padding-top:2rem; margin-right: 1rem; width: 24px; max-height: 24px">
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" style="padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px">
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" style=";padding-top:2rem; margin-right: 1rem; width: 24px; max-height: 24px">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" style=";padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px">
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="padding-top:2rem; margin-right: 1rem; width: 24px; max-height: 24px">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px">
 </div>
