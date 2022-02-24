@@ -33,15 +33,15 @@
 </div>
 
 <div style="display:flex; align-items: center; ">
-<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"style="padding-top:2rem; margin-right: 1rem; width: 24px; height: 24px" />
+<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
 
-<img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 24px; height: 24px"/>
+<img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
 
-<img src='https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png' style="padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px ">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px ">
 
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" style="padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px">
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px">
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" style=";padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px">
+<img src="https://img.icons8.com/color/48/000000/typescript.png" style=";padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px">
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" style="padding-top:2rem; margin-right: 1rem; max-width: 24px; max-height: 24px">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px">
 </div>
