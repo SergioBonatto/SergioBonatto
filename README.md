@@ -1,6 +1,7 @@
+<!-- 
+<h2 style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2> -->
 
-<h2 style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2>
-
+# <span style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there!  <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50">
 <!-- ![capa](https://github.com/SergioBonatto/SergioBonatto/blob/master/site%20imagem.png) -->
 
 <div>
