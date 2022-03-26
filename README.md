@@ -14,7 +14,7 @@
 
   * ### 👨🏼‍💻 - Frontend developer
 
-  * ### 💻 - Learning CSS, JavaScript, Reactjs, TypeScript and Python
+  * ### 💻 - Learning Kind, CSS, JavaScript, Reactjs, TypeScript and Python
 
   * ### 🗺️ - Santana do Livramento - RS - Brazil
     
