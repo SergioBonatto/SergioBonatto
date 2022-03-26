@@ -12,7 +12,7 @@
 
   * ### 🌠 - 1992
 
-  * ### 👨🏼‍💻 - Frontend developer
+  * ### 👨🏼‍💻 - Estudante de **Kind** na [**Kindelia**](https://discord.gg/XNuGTvtt)
 
   * ### 💻 - Learning Kind, CSS, JavaScript, Reactjs, TypeScript and Python
 
