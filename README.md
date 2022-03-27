@@ -5,7 +5,7 @@
 <!-- ![capa](https://github.com/SergioBonatto/SergioBonatto/blob/master/site%20imagem.png) -->
 
 
-   ## 🧔🏼 Sergio __Bonatto__
+   ## 🧔🏼 Sergio __Bonatto__ [![wakatime](https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg)](https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1)
   
   
 
@@ -19,7 +19,7 @@
   * ### 🗺️ - Santana do Livramento - RS - Brazil
     
     
-  [![wakatime](https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg)](https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1)
+
 
 
 
@@ -33,7 +33,8 @@
  
 </div>
 
-<div style="display:flex; align-items: center; ">
+
+<div style="display:flex; align-items: center; float: right">
 <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
 
 <img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
