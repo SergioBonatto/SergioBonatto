@@ -35,17 +35,12 @@
 
 <div style="justify-content: space-between; display: grid; grid-auto-flow: column;">
    <a href="https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1"><img src="https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg" alt="Total time coded since Sep 10 2019" /></a>
-<div style="display: flex; align-items: center; float: right">
-<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
-
-<img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px ">
-
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px">
-
-<img src="https://img.icons8.com/color/48/000000/typescript.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px">
-
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px">
+<div style="display: flex; align-items: center;">
+   <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
+   <img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px ">
+   <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px">
+   <img src="https://img.icons8.com/color/48/000000/typescript.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px">
+   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px">
 </div>
 </div>
