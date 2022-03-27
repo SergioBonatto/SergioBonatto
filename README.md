@@ -18,6 +18,8 @@
 
   * ### 🗺️ - Santana do Livramento - RS - Brazil
     
+    
+  [![wakatime](https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg)](https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1)
 
 
 
