@@ -34,7 +34,7 @@
 </div>
 
 
-<div style="display:flex; align-items: center; float: right">
+<div style="display:inline; align-items: center; float: right">
 <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
 
 <img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
