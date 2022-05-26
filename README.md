@@ -5,7 +5,7 @@
 <!-- ![capa](https://github.com/SergioBonatto/SergioBonatto/blob/master/site%20imagem.png) -->
 
 
-   ## 🧔🏼 Sergio __Bonatto__ [![wakatime](https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg)](https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1)
+   ## 👨 Sergio __Bonatto__ [![wakatime](https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg)](https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1)
   
   Vamos nos conhecer mais, abra seu terminal e rode:
   
