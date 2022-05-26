@@ -7,12 +7,15 @@
 
    ## 🧔🏼 Sergio __Bonatto__ [![wakatime](https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg)](https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1)
   
+  Vamos nos conhecer mais, abra seu terminal e rode:
   
-
+  ```bash
+         npx bonatto
+   ```
 
   * ### 🌠 - 1992
 
-  * ### 👨🏼‍💻 - Estudante de **Kind** na [**Kindelia**](https://discord.gg/XNuGTvtt)
+  * ### 🤓 - Estudante de **Kind** na [**Kindelia**](https://discord.gg/XNuGTvtt)
 
   * ### 💻 - Aprendendo sobre Kind, CSS, JavaScript, Reactjs, TypeScript e Python
 
