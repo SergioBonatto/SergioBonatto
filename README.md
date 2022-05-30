@@ -36,6 +36,10 @@
  
 </div>
 
+<div style="margin-top: 3rem">
+   <a href="https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark"/>
+</div>
+
 <div style="justify-content: space-between; display: grid; grid-auto-flow: column;">
    <a href="https://wakatime.com/@cc1782d9-eb26-4caf-976b-edaa140896a1"><img src="https://wakatime.com/badge/user/cc1782d9-eb26-4caf-976b-edaa140896a1.svg" alt="Total time coded since Sep 10 2019" /></a>
 <div style="display: flex; align-items: center;">
