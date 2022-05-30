@@ -28,14 +28,14 @@
 
 <div style="margin-top: 3rem; display: flex; align-items: center">
  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="top" style="padding-top:2rem;  margin-left: auto; margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobonatto&langs_count=8&theme=radical" />
+    <img align="top" style="padding-top:2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobonatto&langs_count=8&theme=radical" />
   </a>
 
   <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=sergiobonatto&show_icons=true&theme=radical"/>
-  </a>
-  <img height="180em"  style="padding-top:2rem" src="https://activity-graph.herokuapp.com/graph?username=sergiobonatto&theme=react-dark">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=sergiobonatto&show_icons=true&theme=radical"/>
+   </a>
+   <img height="180em"  style="padding-top:2rem" src="https://activity-graph.herokuapp.com/graph?username=sergiobonatto&theme=react-dark">
   </div>
 </div>
 
