@@ -26,7 +26,7 @@
 
 
 
-<div style="margin-top: 3rem; display: flex; align-items: center">
+<div style="margin-top: 3rem; display: flex; align-items: flex-start;">
  <a href="https://github.com/anuraghazra/convoychat">
     <img align="top" style="padding-top:2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobonatto&langs_count=8&theme=radical" />
   </a>
