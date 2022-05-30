@@ -37,7 +37,9 @@
 </div>
 
 <div style="margin-top: 3rem">
-   <a href="https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark"/>
+   <a href="https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark">
+      
+   <a/>
 </div>
 
 <div style="justify-content: space-between; display: grid; grid-auto-flow: column;">
