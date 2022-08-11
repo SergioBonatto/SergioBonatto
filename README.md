@@ -15,7 +15,7 @@
 
   * ### 🌠 - 1992
 
-  * ### 🤓 - Estudante de **Kind** na [**Kindelia**](https://discord.gg/XNuGTvtt)
+  * ### 🤓 - Estudante de **Kind2** na [**Kindelia**](https://discord.gg/XNuGTvtt)
 
   * ### 💻 - Aprendendo sobre Kind, CSS, JavaScript, Reactjs, TypeScript e Python
 
