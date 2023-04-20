@@ -1,5 +1,5 @@
-<!-- 
-<h2 style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2> -->
+ <!--
+<h2 style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2> --> 
 
 # __Hello there!__<img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50">
 <!-- ![capa](https://github.com/SergioBonatto/SergioBonatto/blob/master/site%20imagem.png) -->
@@ -15,16 +15,13 @@
 
   * #### 🌠 - 1992
 
-  * #### 🤓 - Analista de provas formais em **Kind** na [**Higher Order Company**](https://discord.gg/XNuGTvtt)
+  * #### 🤓 - Analista de provas formais em **Kind** na [**Higher Order Company**](https://github.com/HigherOrderCO/)
 
   * #### 💻 - Kind, HVM, Haskell, Rust, CSS, JavaScript, Reactjs, TypeScript e Python
 
   * #### 🗺️ - Pinheiros, São Paulo - SP - Brazil
     
     
-
-
-
 
 <div style="margin-top: 3rem; display: flex; align-items: flex-start;">
  <a href="https://github.com/anuraghazra/convoychat">
@@ -35,7 +32,7 @@
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=sergiobonatto&show_icons=true&theme=radical"/>
    </a>
-   <!-- <img height="180em"  style="padding-top:2rem" src="https://activity-graph.herokuapp.com/graph?username=sergiobonatto&theme=react-dark"> --> 
+   <!--<img height="180em"  style="padding-top:2rem" src="https://activity-graph.herokuapp.com/graph?username=sergiobonatto&theme=react-dark"> -->
   </div>
 </div>
 
