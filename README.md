@@ -15,11 +15,11 @@
 
   * ### 🌠 - 1992
 
-  * ### 🤓 - Estudante de **Kind2** na [**Kindelia**](https://discord.gg/XNuGTvtt)
+  * ### 🤓 - Analista de provas formais em **Kind** na [**Higher Order Company**](https://discord.gg/XNuGTvtt)
 
-  * ### 💻 - Aprendendo sobre Kind, CSS, JavaScript, Reactjs, TypeScript e Python
+  * ### 💻 - Gosto muito de Kind e HVM, mas não posso esquecer do que me trouxe até aqui, o CSS, JavaScript, Reactjs, TypeScript e Python
 
-  * ### 🗺️ - Santana do Livramento - RS - Brazil
+  * ### 🗺️ - Pinheiros, São Paulo - SP - Brazil
     
     
 
