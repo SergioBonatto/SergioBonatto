@@ -13,13 +13,13 @@
          npx bonatto
    ```
 
-  * ### 🌠 - 1992
+  * #### 🌠 - 1992
 
-  * ### 🤓 - Analista de provas formais em **Kind** na [**Higher Order Company**](https://discord.gg/XNuGTvtt)
+  * #### 🤓 - Analista de provas formais em **Kind** na [**Higher Order Company**](https://discord.gg/XNuGTvtt)
 
-  * ### 💻 - Gosto muito de Kind e HVM, mas não posso esquecer do que me trouxe até aqui, o CSS, JavaScript, Reactjs, TypeScript e Python
+  * #### 💻 - Kind, HVM, Haskell, Rust, CSS, JavaScript, Reactjs, TypeScript e Python
 
-  * ### 🗺️ - Pinheiros, São Paulo - SP - Brazil
+  * #### 🗺️ - Pinheiros, São Paulo - SP - Brazil
     
     
 
