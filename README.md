@@ -19,7 +19,7 @@
 
   * #### 💻 - Kind, HVM, Haskell, Rust, CSS, JavaScript, Reactjs, TypeScript e Python
 
-  * #### 🗺️ - Pinheiros, São Paulo - SP - Brazil
+  <!--* #### 🗺️ - Pinheiros, São Paulo - SP - Brazil -->
     
     
 
