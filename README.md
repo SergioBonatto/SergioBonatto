@@ -19,7 +19,7 @@
 
   * #### 💻 - Kind, HVM, Haskell, Rust, CSS, JavaScript, Reactjs, TypeScript e Python
   
-  * Me chame no Discord: `fibonatto`, originalmente `Bonatto#0001`
+  * #### Me chame no Discord: `fibonatto`, originalmente `Bonatto#0001`
   <!--* #### 🗺️ - Pinheiros, São Paulo - SP - Brazil -->
     
     
