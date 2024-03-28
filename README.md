@@ -18,7 +18,8 @@
   * #### 🤓 - Analista de provas formais em **Kind** na [**Higher Order Company**](https://github.com/HigherOrderCO/)
 
   * #### 💻 - Kind, HVM, Haskell, Rust, CSS, JavaScript, Reactjs, TypeScript e Python
-
+  
+  * Me chame no Discord: `fibonatto`, originalmente `Bonatto#0001`
   <!--* #### 🗺️ - Pinheiros, São Paulo - SP - Brazil -->
     
     
