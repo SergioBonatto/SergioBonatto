@@ -25,13 +25,15 @@
     
 
 <div style="margin-top: 3rem; display: flex; align-items: flex-start;">
- <a href="https://github.com/anuraghazra/convoychat">
-    <img align="top" style="padding-top:2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobonatto&langs_count=8&theme=radical" />
-  </a>
-
   <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=sergiobonatto&show_icons=true&theme=radical"/>
+      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=sergiobonatto&show_icons=true&theme=transparent&show=prs_merged_percentage"/>
+   </a>
+   <!--<img height="180em"  style="padding-top:2rem" src="https://activity-graph.herokuapp.com/graph?username=sergiobonatto&theme=react-dark"> -->
+  </div>
+   <div>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api/wakatime?username=sergiobonatto&layout=compact&theme=transparent"/>
    </a>
    <!--<img height="180em"  style="padding-top:2rem" src="https://activity-graph.herokuapp.com/graph?username=sergiobonatto&theme=react-dark"> -->
   </div>
