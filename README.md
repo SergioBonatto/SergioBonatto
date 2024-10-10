@@ -36,6 +36,7 @@
 <div style="display: flex; align-items: center;">
    <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
    <img src="https://img.icons8.com/color/48/haskell.png" alt="haskell" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
+   <img src="https://avatars.githubusercontent.com/u/36580762?s=200&v=4" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px">
    <img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
    <img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px ">
@@ -45,3 +46,4 @@
    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px">
 </div>
 </div>
+
