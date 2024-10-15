@@ -40,8 +40,6 @@
    <img src="https://avatars.githubusercontent.com/u/164901787?v=4" alt="hoc" style="margin-right: 1rem; width: 48px; height: 48px">
    <img src="https://www.svgrepo.com/show/373675/idris.svg" alt="idris" style="margin-right: 1rem; width: 48px; height: 48px">
    <img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language" style="margin-right: 1rem; width: 48px; height: 48px"/>
-   <img src="https://img.icons8.com/color/50/000000/css3.png" style="margin-right: 1rem; width: 48px; height: 48px"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="margin-right: 1rem; max-width: 48px; max-height: 48px ">
    <img src="https://img.icons8.com/ios-filled/50/c96afc/c-sharp-logo.png" alt="c-sharp-logo" style="margin-right: 1rem; max-width: 48px; max-height: 48px "/>
    <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="margin-right: 1rem; max-width: 48px; max-height: 48px">
    <img src="https://img.icons8.com/color/48/000000/typescript.png" style="margin-right: 1rem; max-width: 48px; max-height: 48px">
