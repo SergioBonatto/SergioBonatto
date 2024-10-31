@@ -8,7 +8,6 @@
          npx bonatto
   ```
 
-  * #### 🌠 - 1992
 
   * #### 🤓 - Formal proofs analyst at **Kind** at [**Higher Order Company**](https://github.com/HigherOrderCO/)
 
