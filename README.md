@@ -11,7 +11,7 @@
 
   * #### 🤓 - Formal proofs analyst at **Kind** at [**Higher Order Company**](https://github.com/HigherOrderCO/)
 
-  * #### 💻 - Kind, HVM, Haskell, Rust, CSS, JavaScript, Reactjs, TypeScript, and Python
+  * #### 💻 - Haskell, Rust, CSS, JavaScript, Reactjs, NextJs, TypeScript, and Python
   
   * #### Contact me on Discord: `fibonatto`, originally `Bonatto#0001`
     
