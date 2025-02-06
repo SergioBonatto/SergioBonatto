@@ -49,16 +49,17 @@ main = do
 
 ### Tech Stack
 
-| **Technology** | **Icon** |
-|----------------|----------|
-| Haskell        | <img src="https://img.icons8.com/color/48/haskell.png" alt="Haskell" width="40"/> |
-| Agda           | <img src="https://avatars.githubusercontent.com/u/36580762?s=200&v=4" alt="Agda" width="40"/> |
-| Idris          | <img src="https://www.svgrepo.com/show/373675/idris.svg" alt="Idris" width="40"/> |
-| Rust           | <img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="Rust" width="40"/> |
-| Python         | <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/> |
-| TypeScript     | <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/> |
-| JavaScript     | <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="JavaScript" width="40"/> |
-| React          | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" width="40"/> |
+
+<div style="display: flex; gap: 10px; align-items: center;">
+   <img src="https://img.icons8.com/color/48/haskell.png" alt="Haskell" width="40"/> 
+   <img src="https://avatars.githubusercontent.com/u/36580762?s=200&v=4" alt="Agda" width="40"/> 
+   <img src="https://www.svgrepo.com/show/373675/idris.svg" alt="Idris" width="40"/> 
+   <img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="Rust" width="40"/> 
+   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/> 
+   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/> 
+   <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="JavaScript" width="40"/> 
+   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" width="40"/>
+</div>
 
 
 
