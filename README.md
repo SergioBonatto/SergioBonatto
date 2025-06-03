@@ -17,7 +17,7 @@ I specialize in building reliable and mathematically sound software using formal
 
 ## Pinned Repositories
 
-Please check the pinned repositories on my GitHub profile for representative projects that showcase my technical skills and expertise.
+Please check the pinned repositories for representative projects that showcase my technical skills and expertise.
 
 ---
 
