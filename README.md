@@ -36,7 +36,6 @@ Please check the pinned repositories for representative projects that showcase m
 - Discord: `fibonatto`  
 - X (Twitter): [@fibonatto](https://twitter.com/fibonatto)  
 - LinkedIn: [sergiobonatto](https://www.linkedin.com/in/sergiobonatto)  
-- Email: bonattol@tutanota.com  
 - Website: [bonatto.vercel.app](https://bonatto.vercel.app)
 
 ---
