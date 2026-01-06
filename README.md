@@ -1,43 +1,30 @@
 # Sergio Bonatto
 
-Software Engineer focused on formal methods, functional programming, and rigorous system design.
+Software engineer focused on programming languages, type systems, and low-level systems.
 
----
+Work spans formal methods, functional programming, and operating systems. Main interests include dependent type theory, proof languages, language interpreters, virtual machines, and minimalist kernels.
 
-## About Me
+Experience ranges from low-level C and RISC-V systems work to high-level functional abstractions in Haskell. Projects often emphasize correctness, explicit semantics, and simple but rigorous implementations.
 
-I specialize in building reliable and mathematically sound software using formal verification and functional programming paradigms. My work covers:
+## Areas of interest
 
-- Formal verification and proof development with dependently typed languages  
-- Functional programming with emphasis on immutability and strong type systems  
-- Distributed systems design with concurrency and event-driven patterns  
-- Modern web development using TypeScript, React, and scalable architectures
+- Programming languages and interpreters
+- Lambda calculus and type systems
+- Dependent types and proof assistants
+- Operating systems and kernels
+- Virtual machines and emulators
+- Massively parallel and functional computation models
 
----
+## Technologies
 
-## Pinned Repositories
-
-Please check the pinned repositories for representative projects that showcase my technical skills and expertise.
-
----
-
-## Core Technical Skills
-
-- Formal verification & dependently typed languages: Agda, Idris, Haskell  
-- Functional programming: Haskell, Idris, Rust (safe and immutable design)  
-- Distributed systems & blockchain: Rust (Anchor for Solana), concurrency, event-driven design  
-- Web development: TypeScript, React, Next.js  
-- Tools & practices: Git, Vim, CI/CD pipelines, automated testing
-
----
+- Languages: C, Haskell, Rust, TypeScript
+- Formal methods: dependent types, proof development, type theory
+- Systems: kernels, virtual memory, system calls, emulation
+- Applications: distributed systems, web applications, tooling
 
 ## Contact
 
-- Discord: `fibonatto`  
-- X (Twitter): [@fibonatto](https://twitter.com/fibonatto)  
-- LinkedIn: [sergiobonatto](https://www.linkedin.com/in/sergiobonatto)  
-- Website: [bonatto.vercel.app](https://bonatto.vercel.app)
-
----
-
-<sub>© Sergio Bonatto — Software Engineering & Formal Methods</sub>
+- Twitter: https://twitter.com/fibonatto
+- LinkedIn: https://www.linkedin.com/in/sergiobonatto
+- Website: https://bonatto.vercel.app
+- Discord: fibonatto
