@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td  width="500">
-      <img src="the-inferno-canto-8-1.jpg" width="500" alt="Inferno Canto VIII - Gustave Doré">
+    <td  width="400">
+      <img src="the-inferno-canto-8-1.jpg" width="400" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
       <h1>Sergio Bonatto</h1>
