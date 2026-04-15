@@ -24,10 +24,8 @@
       </ul>
       <h2>Contact</h2>
       <ul>
-        <li>Twitter: <a href="https://twitter.com/fibonatto">fibonatto</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/sergiobonatto">Sergio Bonatto</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/sergio_bonatto/">@Sergio_Bonatto</a></li>
         <li>Website: <a href="https://sergiobonatto.github.io">https://sergiobonatto.github.io</a></li>
-        <li>Discord: fibonatto</li>
       </ul>
     </td>
   </tr>
